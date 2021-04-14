@@ -2,4 +2,4 @@
 Implementation of a relationships monitoring system among elements.
 
 
-Some test suites are provided.
+Some test suites have been provided.
